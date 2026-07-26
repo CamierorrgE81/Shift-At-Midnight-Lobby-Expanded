@@ -2,6 +2,8 @@
 
 A BepInEx 6 IL2CPP mod for increasing the player capacity of newly created Photon Fusion rooms in Shift At Midnight.
 
+![pgho](Data/b17f3a1e-5ba7-4125-81f7-8c0d128ff15e.png)
+
 ## Installation
 
 1. Close Shift At Midnight and Steam.
